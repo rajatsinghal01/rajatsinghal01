@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
   
-I am a Electrical Engineering Undergraduate student from Punjab Engineering College, Chandigarh. I'm skilled in Data Structures & Algorithms. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
+I am a final-year Electrical Engineering Undergraduate student from Punjab Engineering College, Chandigarh. I'm skilled in Data Structures & Algorithms and Android Development. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
 
 
 
@@ -20,31 +20,31 @@ I am a Electrical Engineering Undergraduate student from Punjab Engineering Coll
 
 ## 👨‍💻 Languages and Tools
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; -->
-<!-- ![JAVA](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
-![Java](https://img.shields.io/badge/JAVA-05122A?style=flat&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-05122A?style=flat&logo=openjdk)&nbsp;
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android&logoColor=green)
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=blue)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Express Js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<!-- ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp; -->
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![ProgressiveWebApplications](https://img.shields.io/badge/Progressive%20Web%20Applications-05122A?style=flat&logo=PWA&logoColor=Purple)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-<!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; -->
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-05122A?style=flat&logo=adobe%20illustrator&logoColor=orange)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=flat&logo=adobe%20photoshop&logoColor=blue)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-05122A?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=purple)
 
-<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
-<!-- ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp; -->
 
 
 ## 🤝🏻 Connect with me

@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hello fellow  &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;, I'm Rajat Singhal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
+<h3 align="center">Welcome to my space. I'm a Software Engineer from India ❤</h3>
   
-I am a final-year Electrical Engineering Undergraduate student from Punjab Engineering College, Chandigarh. I'm skilled in Data Structures & Algorithms and Android Development. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
+I'm skilled in Data Structures, Algorithms and Android Development. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
 
 
 
